@@ -6,8 +6,8 @@ if (family == 'yes') {
 }
 else {
     alert('Also not bad')
-        * /
-/*task2
+}
+task2
 var i = 1;
 while (i < 3) {
     console.log('Value of i: ' + i);
@@ -25,4 +25,4 @@ switch (a) {
     case 3:
         console.log(true);
         break;
-}*/
+}
